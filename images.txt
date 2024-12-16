@@ -7,6 +7,7 @@ elasticsearch:7.4.2
 kibana:7.4.2
 postgres
 dpage/pgadmin4
+node:23.4-alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
