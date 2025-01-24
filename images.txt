@@ -9,6 +9,10 @@ postgres
 dpage/pgadmin4
 node:23.4-alpine
 
+#wansen 开源ERP
+wansenai/eairp:2.1.1
+wansenai/eairp-web:2.1.1
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
