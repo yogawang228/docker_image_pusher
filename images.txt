@@ -4,7 +4,9 @@ mysql:8.0.32-debian
 yogawang/myphp:8.0.26-fpm-alpine
 yogawang/myphp:8.2.16-fpm-alpine
 elasticsearch:7.4.2
+elasticsearch:7.12.1
 kibana:7.4.2
+kibana:7.12.1
 postgres
 dpage/pgadmin4
 node:23.4-alpine
