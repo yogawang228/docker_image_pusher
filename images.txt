@@ -22,4 +22,4 @@ wansenai/eairp-web:2.1.1
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #java
-williamyeh/java8
+openjdk:8-jre-slim
