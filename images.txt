@@ -20,3 +20,6 @@ wansenai/eairp-web:2.1.1
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+#java
+java8:SimHei
